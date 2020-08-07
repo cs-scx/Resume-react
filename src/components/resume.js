@@ -14,8 +14,8 @@ class Resume extends Component {
                             <img src={require('../images/avatar.png')} 
                             alt="avatar_Img" style={{height: '300px'}} />
                         </div>
-                        <h2 style={{paddingTop: '2em', }} >Your Name</h2>
-                        <h4 style={{color: 'grey'}} >Programmer</h4>
+                        <h2 style={{paddingTop: '2em', }} >Your Name Here</h2>
+                        <h4 style={{color: 'grey'}} >Programmer(Your profession)</h4>
                         <hr style={{borderTop: '3px solid #833fb2', width: '50%'}} />
                         <p style={{width:'75%', margin: 'auto', paddingTop: '1em'}}>Elon Reeve Musk FRS (/ˈiːlɒn/; born June 28, 1971)
                              is an engineer, industrial designer, technology 
@@ -42,19 +42,25 @@ class Resume extends Component {
                             startYear={2018}
                             endYear={2022}
                             schoolName="Your University"
-                            schoolDescription="dsddddddddddddddddddddddddddd"
+                            schoolDescription="I'm a paragraph. Click here to add your own text and edit me.It’s
+          easy. Just click “Edit Text” or double click me to add your own
+          content and"
                         />
                         <Education 
                             startYear={2018}
                             endYear={2022}
                             schoolName="Your University"
-                            schoolDescription="dsddddddddddddddddddddddddddd"
+                            schoolDescription="I'm a paragraph. Click here to add your own text and edit me.It’s
+          easy. Just click “Edit Text” or double click me to add your own
+          content and"
                         />
                         <Education 
                             startYear={2018}
                             endYear={2022}
                             schoolName="Your University"
-                            schoolDescription="dsddddddddddddddddddddddddddd"
+                            schoolDescription="I'm a paragraph. Click here to add your own text and edit me.It’s
+          easy. Just click “Edit Text” or double click me to add your own
+          content and"
                         />
                        <hr style={{borderTop: '3px solid #833fb2', width: '50%'}} />
                         
@@ -64,19 +70,25 @@ class Resume extends Component {
                             startYear={2018}
                             endYear={2022}
                             jobName="Your Experience"
-                            jobDescription="dsddddddddddddddddddddddddddd"
+                            jobDescription="I'm a paragraph. Click here to add your own text and edit me.It’s
+          easy. Just click “Edit Text” or double click me to add your own
+          content and"
                         />
                         <Experience 
                             startYear={2018}
                             endYear={2022}
                             jobName="Your Experience"
-                            jobDescription="dsddddddddddddddddddddddddddd"
+                            jobDescription="I'm a paragraph. Click here to add your own text and edit me.It’s
+          easy. Just click “Edit Text” or double click me to add your own
+          content and"
                         />
                         <Experience 
                             startYear={2018}
                             endYear={2022}
                             jobName="Your Experience"
-                            jobDescription="dsddddddddddddddddddddddddddd"
+                            jobDescription="I'm a paragraph. Click here to add your own text and edit me.It’s
+          easy. Just click “Edit Text” or double click me to add your own
+          content and"
                         />
 
                         <h2>Skills</h2>
